@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Booking List App</string>
+    <string name="tittle">Book Tittle</string>
+    <string name="subtittle">Book Sub Tittle</string>
+    <string name="authors">Author</string>
+    <string name="description">description</string>
+    <string name="welcome">Welcome in App</string>
+    <string name="recycleView">Card View</string>
+    <string name="listView">List Card View</string>
+    <string name="main">Hello!</string>
+</resources>
